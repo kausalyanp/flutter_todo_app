@@ -1,0 +1,43 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+*.iml
+
+# Android
+android/.gradle/
+android/captures/
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+# iOS
+ios/.symlinks/
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Environment / Secrets
+.env
+*.env
+lib/core/constants/app_config.dart
