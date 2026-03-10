@@ -8,7 +8,6 @@
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-Realtime%20DB-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Provider](https://img.shields.io/badge/State-Provider-6C63FF?style=flat-square)](https://pub.dev/packages/provider)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 **A production-quality To-Do List app built with Flutter, Firebase Authentication, and Firebase Realtime Database — using pure REST API calls.**
 
