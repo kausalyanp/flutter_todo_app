@@ -12,7 +12,7 @@
 
 **A production-quality To-Do List app built with Flutter, Firebase Authentication, and Firebase Realtime Database — using pure REST API calls.**
 
-[Features](#features) • [Screenshots](#screenshots) • [Architecture](#architecture) • [Setup](#setup) • [Running](#running) • [Tech Stack](#tech-stack)
+[Features](#features) •  [Architecture](#architecture) • [Setup](#setup) • [Running](#running) • [Tech Stack](#tech-stack)
 
 </div>
 
